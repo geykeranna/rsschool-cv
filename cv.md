@@ -19,7 +19,7 @@ At university I studied:
 You can view code examples on my github account. For example, https://github.com/geykeranna/Coursework .
 
 ## Experience
-From experience, I now have only a few laboratory works and courses.
+From experience, I can note the [IoT project](https://github.com/geykeranna/IoT-Project)
 
 ## Education
 I study at [RTU MIREA](https://www.mirea.ru/) University in the direction of informatics and computer engineering.
